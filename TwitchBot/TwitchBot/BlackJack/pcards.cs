@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace TwitchBot
 {
-    class pcards
-    {
-        public string user;
-        public int usercard;
-    }
+    //class pcards
+    //{
+    //    public string user;
+    //    public int usercard;
+    //}
 }
