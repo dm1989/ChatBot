@@ -78,14 +78,10 @@
     <Compile Include="Dota\Storage Classes\ProPlayers.cs" />
     <Compile Include="IRC\IRCChannel.cs" />
     <Compile Include="IRC\IRCClient.cs" />
-    <Compile Include="IRC\IRCDotaModule.cs" />
     <Compile Include="IRC\IRCModule.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TwitchBot\ApiModule.cs" />
-    <Compile Include="TwitchBot\BlackJack\blackjack.cs" />
-    <Compile Include="TwitchBot\BlackJack\pcards.cs" />
-    <Compile Include="TwitchBot\BlackJack\user.cs" />
     <Compile Include="TwitchBot\BotUser.cs" />
     <Compile Include="TwitchBot\FileModule.cs" />
   </ItemGroup>
